@@ -8,9 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		F12922772B3308C70068B734 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F12922762B3308C70068B734 /* FavoriteButton.swift */; };
-		F12922852B3341DF0068B734 /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = F12922822B3341DF0068B734 /* screenshot3.png */; };
-		F12922862B3341DF0068B734 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = F12922832B3341DF0068B734 /* screenshot2.png */; };
-		F12922872B3341DF0068B734 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = F12922842B3341DF0068B734 /* screenshot1.png */; };
+		F129228B2B33428E0068B734 /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = F12922882B33428E0068B734 /* screenshot3.png */; };
+		F129228C2B33428E0068B734 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = F12922892B33428E0068B734 /* screenshot2.png */; };
+		F129228D2B33428E0068B734 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = F129228A2B33428E0068B734 /* screenshot1.png */; };
 		F1C31C4C2B3209290022A1DA /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C31C4B2B3209290022A1DA /* LandmarksApp.swift */; };
 		F1C31C4E2B3209290022A1DA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1C31C4D2B3209290022A1DA /* ContentView.swift */; };
 		F1C31C502B32092A0022A1DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1C31C4F2B32092A0022A1DA /* Assets.xcassets */; };
@@ -27,10 +27,10 @@
 
 /* Begin PBXFileReference section */
 		F12922762B3308C70068B734 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
-		F129227A2B333E6B0068B734 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		F12922822B3341DF0068B734 /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
-		F12922832B3341DF0068B734 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
-		F12922842B3341DF0068B734 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		F12922882B33428E0068B734 /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
+		F12922892B33428E0068B734 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		F129228A2B33428E0068B734 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		F12922912B3342DD0068B734 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		F1C31C482B3209290022A1DA /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1C31C4B2B3209290022A1DA /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		F1C31C4D2B3209290022A1DA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -80,9 +80,9 @@
 		F129227B2B333FDD0068B734 /* docs */ = {
 			isa = PBXGroup;
 			children = (
-				F12922842B3341DF0068B734 /* screenshot1.png */,
-				F12922832B3341DF0068B734 /* screenshot2.png */,
-				F12922822B3341DF0068B734 /* screenshot3.png */,
+				F129228A2B33428E0068B734 /* screenshot1.png */,
+				F12922892B33428E0068B734 /* screenshot2.png */,
+				F12922882B33428E0068B734 /* screenshot3.png */,
 			);
 			path = docs;
 			sourceTree = "<group>";
@@ -91,7 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				F129227B2B333FDD0068B734 /* docs */,
-				F129227A2B333E6B0068B734 /* README.md */,
+				F12922912B3342DD0068B734 /* README.md */,
 				F1C31C4A2B3209290022A1DA /* Landmarks */,
 				F1C31C492B3209290022A1DA /* Products */,
 			);
@@ -214,9 +214,9 @@
 				F1C31C532B32092A0022A1DA /* Preview Assets.xcassets in Resources */,
 				F1C31C502B32092A0022A1DA /* Assets.xcassets in Resources */,
 				F1C31C6D2B321D9F0022A1DA /* landmarkData.json in Resources */,
-				F12922872B3341DF0068B734 /* screenshot1.png in Resources */,
-				F12922862B3341DF0068B734 /* screenshot2.png in Resources */,
-				F12922852B3341DF0068B734 /* screenshot3.png in Resources */,
+				F129228D2B33428E0068B734 /* screenshot1.png in Resources */,
+				F129228C2B33428E0068B734 /* screenshot2.png in Resources */,
+				F129228B2B33428E0068B734 /* screenshot3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
