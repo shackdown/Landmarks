@@ -75,7 +75,6 @@
 			isa = PBXGroup;
 			children = (
 				F129227A2B333E6B0068B734 /* README.md */,
-				F1C31C642B3217E50022A1DA /* Model */,
 				F1C31C4A2B3209290022A1DA /* Landmarks */,
 				F1C31C492B3209290022A1DA /* Products */,
 			);
@@ -93,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				F1C31C4B2B3209290022A1DA /* LandmarksApp.swift */,
+				F1C31C642B3217E50022A1DA /* Model */,
 				F1C31C652B3218040022A1DA /* Ressources */,
 				F1C31C632B3217B60022A1DA /* Views */,
 				F1C31C4F2B32092A0022A1DA /* Assets.xcassets */,
